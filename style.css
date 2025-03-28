@@ -1,0 +1,20 @@
+body {
+    background: #343;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 20px;
+    text-align: justify;
+}
+
+nav {
+    background: bisque;
+}
+
+.imagen {
+    text-align: center;
+}
+
+.primera {
+    width: 50%;
+    height: auto;
+}
